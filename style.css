@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap')
+#body{
+    background-color: rgb(171, 171, 171);
+}
+.container{
+    border-radius: 40px;
+    margin-top:50px;
+}
+.heading{
+    text-align: center;
+    margin-top:20px;
+    /* text-decoration: underline; */
+    
+}
